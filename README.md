@@ -1,30 +1,18 @@
 # Stun Bar Tracker
 
-A lightweight script to track and display the stun bar fill percentage in real-time.
+Stun Bar Tracker is a lightweight script that shows the stun bar fill percentage in real-time.
 
----
+## Installation
 
-## ✅ How to Use
+1. Install Python from https://www.python.org/downloads  
+   Make sure to check the box that says "Add Python to PATH" during installation.
 
-### 1. Install Python (if you don’t have it)
+2. Download and extract the project folder.
 
-- Go to: https://www.python.org/downloads/
-- Download and install Python 3.10 or newer
-- ✅ During installation, make sure to **check the box that says "Add Python to PATH"**
+3. Open Command Prompt, install the dependencies:  
+   pip install pyqt5 opencv-python numpy mss pyautogui  
+   
 
----
+4. Nvigate to the extracted folder and run the script:  
+   python stunbar.py
 
-### 2. Download this project
-
-- Click the green **"Code"** button on GitHub
-- Choose **"Download ZIP"**
-- Extract the ZIP anywhere (e.g., Desktop)
-
----
-
-### 3. Install dependencies
-
-Open a terminal (Command Prompt or PowerShell), then run:
-
-```bash
-pip install pyqt5 opencv-python numpy mss pyautogui
