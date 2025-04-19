@@ -1,6 +1,8 @@
 # Stun Bar Tracker
 
 Stun Bar Tracker is a lightweight script that shows the stun bar fill percentage in real-time.
+![Demo](demo.gif)
+
 
 ## Installation
 
