@@ -16,7 +16,7 @@ Stun Bar Tracker is a lightweight script that shows the stun bar fill percentage
 ```
    
 
-5. Nvigate to the extracted folder and run the script:  
+5. Navigate to the extracted folder and run the script:  
 ```bash
    python stunbar.py
 ```
